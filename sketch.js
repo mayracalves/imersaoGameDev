@@ -20,6 +20,4 @@ function keyPressed() {
 function draw() {
   cenas[cenaAtual].draw();
   
-  
-  
 }
